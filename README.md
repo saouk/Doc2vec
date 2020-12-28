@@ -1,1 +1,3 @@
-# 비슷한 노래 가사 추천 서비스
+# Doc2vec Sample
+
+doc2vec Sample
